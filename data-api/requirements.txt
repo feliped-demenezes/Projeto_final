@@ -1,0 +1,7 @@
+pysus==1.0.1
+pandas
+fastapi
+uvicorn
+python-multipart
+orjson
+requests
