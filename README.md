@@ -43,9 +43,3 @@ Você deve ter as seguintes ferramentas instaladas:
 * **Docker Desktop** (para rodar a API/Backend)
 
 ### 2. Clonar o Repositório
-
-Navegue até o diretório onde você deseja salvar o projeto e execute:
-
-```bash
-git clone (https://github.com/feliped-demenezes/Projeto_final)
-cd projeto_final
